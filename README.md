@@ -1,4 +1,4 @@
-# SQLRockbuster
+# SQL - Rockbuster
 
 Data Analysis project conducted in SQL for CareerFoundry - Data Analytics Program.
 
