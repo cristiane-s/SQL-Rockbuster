@@ -1,9 +1,11 @@
 # SQLRockbuster
 
-Analysis of the PostgreSQL Sample Database of a ficticious movie rental company using SQL as part of the careerfoundry Data Analysis course.
+Data Analysis project conducted in SQL for CareerFoundry - Data Analytics Program.
 
 # Objectives
-Rockbuster is a ficticious DVD rental company looking to break into the online video rental market. For that purpose they want to gain insights of their current portfolio performance and customer base to inform their company strategy.
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. It is now looking to diversify and launch an online video rental service in order to stay competitive.
+
+The objective of the project was to answer business questions in order to drive the launch strategy of a new online rental service.
 
 # Data
 Opensource tutorial data from PostgreSQL available here.
